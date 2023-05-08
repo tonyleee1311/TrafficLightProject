@@ -1,0 +1,7 @@
+trafficlight.c:8:6:turnOffAllTrafficLight	8	static
+trafficlight.c:17:6:turnOnAllTrafficLight	8	static
+trafficlight.c:25:6:turnOnRed	16	static
+trafficlight.c:41:6:turnOnYellow	16	static
+trafficlight.c:57:6:turnOnGreen	16	static
+trafficlight.c:73:6:trafficLightProcessing	16	static
+trafficlight.c:88:6:blinkLedForEachMode	16	static
